@@ -2,5 +2,5 @@
 
 App de Transferência Bancaria 
 
-Desenvolvido Pelo FlutLab
+Desenvolvido Pelo FlutLab.io
 
